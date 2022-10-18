@@ -1,5 +1,3 @@
-# Bruna Moreira Francisco
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunaMoreira&color=yellow" alt="Profile views" /> </p>
 <h1 align="left">Hi, I'm Bruna Moreira Francisco</h1>
 
