@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Bruna Moreira Francisco</h1>
 
 <p align="left" style="background:yellow">
-<a href="https://https://www.linkedin.com/in/bruna-moreira-torres-francisco/" target="_blank">
+<a href="https://www.linkedin.com/in/bruna-moreira-torres-francisco/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/BrunaMoreira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
