@@ -7,7 +7,7 @@
 </a>
 </p>
 
-- 🔭 Student
+- 🔭 Systems analysis and development student
 - 📫 bruuna.moreiras@gmail.com
 
 ## ⚡ Technologies
