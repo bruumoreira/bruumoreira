@@ -1,5 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunaMoreira&color=yellow" alt="Profile views"/> </p>
-<h1 align="left">Hi, I'm Bruna Moreira Francisco</h1>
+
+## Hi, I'm Bruna Moreira Francisco
+
+<p>Meu nome é Bruna e atualmente moro em Sorocaba/SP, Brasil. Sou arquiteta e também estudante de análise e desenvolvimento de sistemas na FMU!
+No momento estou estudando um pouco de todas as tecnologias descritas abaixo, com foco em Java, SpringBoot, Typescript e Angular. Pretendo estudar aws no futuro.
+Amo viajar, ler livros, ver séries, conhecer novos lugares, gastronomia, animais de estimação e aprender coisas novas. Estou buscando me aprimorar na área de desenvolvimento de software!</p>
+<hr>
+<p>My name is Bruna and I currently live in Sorocaba/SP, Brazil. I'm an architect and also a systems analysis and development student at FMU!
+At the moment I'm studying a little of all the technologies described below, focusing on Java, SpringBoot, Typescript and Angular. I intend to study AWS in the future.
+I love traveling, reading books, watching series, discovering new places, gastronomy, pets and learning new things. I'm looking to improve myself in the area of ​​software development!</p>
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/bruna-moreira-torres-francisco/" target="_blank">
@@ -9,6 +18,8 @@
 
 - 🔭 Systems analysis and development student
 - 📫 bruuna.moreiras@gmail.com
+
+
 
 ## ⚡ Technologies
 
